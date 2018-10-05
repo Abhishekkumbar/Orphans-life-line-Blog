@@ -1,0 +1,13 @@
+#git-bash
+git init
+git add .
+git commit -m "--"
+git remote add origin git@github.com:Abhishekkumbar/Orphans-life-line-Blog.git
+git push orgin master
+#heroku
+heroku login in cmd
+create composer.json ---- {}
+create index.php-------"<?php header( 'Location: /index.html' ) ;  ?>"
+https://blog.teamtreehouse.com/deploy-static-site-heroku
+refer from above link
+
